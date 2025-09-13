@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+pigeon-pal/node_modules
+pigeon-pal/dist
